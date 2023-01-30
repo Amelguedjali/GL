@@ -7,18 +7,19 @@
       <>
         <div className="grid grid-cols-1 lg:grid-cols-[1fr_600px] bg-[#B7FEF9] relative">
             <div className="m-[20px] md:m-[50px]">
-                <h1 className="text-6xl font-black">
-                    Getting Best
+               <h1 class="text-6xl font-black">
+                     Obtenir une Education de
                 </h1>
-                <h1 className="text-6xl font-black">
-                    Quality Education
+                <h1 class="text-6xl font-black">
+                    Qualité Supérieure
                 </h1>
-                <h1 className="text-6xl font-black">
-                    Is Now More Easier
+                <h1 class="text-6xl font-black">
+                    Est Maintenant Plus Facile
                 </h1>
-                <h3 className="text-xl leading-8 my-5">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum quae enim, iusto a laboriosam vitae et rerum cupiditate. Soluta aliquam consequuntur placeat mollitia recusandae quis esse dolores, impedit veritatis porro!
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum quae enim, iusto a laboriosam vitae et rerum cupiditate. Soluta aliquam consequuntur placeat mollitia recusandae quis esse dolores, impedit veritatis porro!
+                <h3 class="text-xl leading-8 my-5">
+                  L'objectif de ce site web est de permettre à des utilisateurs de publier et de consulter des annonces de cours de soutien scolaire. Il s'agit d'une plateforme en ligne qui fournit un espace pour les enseignants et les parents à la recherche de cours de soutien pour leurs enfants.
+                  Le site propose une interface intuitive et facile à utiliser pour la publication d'annonces, avec des options pour la saisie des informations de base sur le cours, y compris la matière, le niveau scolaire, le coût horaire et la localisation. Les utilisateurs peuvent également télécharger des images pour présenter leurs services.
+                  Les annonces publiées sont accessibles à tous les utilisateurs enregistrés, qui peuvent effectuer des recherches pour trouver des annonces de cours de soutien qui correspondent à leurs besoins. Ils peuvent également consulter les détails de l'annonce, y compris les informations sur l'enseignant, les commentaires et les évaluations des autres utilisateurs. 
                 </h3>
             </div>
             <div className="flex items-center">
@@ -33,19 +34,19 @@
                 <img className="w-[600px]" src={images[21]} alt="" />
             </div>
             <div className="m-[20px] md:m-[50px]">
-                <h1 className="text-6xl font-black">
-                    Getting Best
+                <h1 class="text-6xl font-black">
+                     Obtenir une Education de
                 </h1>
-                <h1 className="text-6xl font-black">
-                    Quality Education
+                <h1 class="text-6xl font-black">
+                    Qualité Supérieure
                 </h1>
-                <h1 className="text-6xl font-black">
-                    Is Now More Easier
+                <h1 class="text-6xl font-black">
+                    Est Maintenant Plus Facile
                 </h1>
-                <h3 className="text-xl leading-8 my-5">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum quae enim, iusto a laboriosam vitae et rerum cupiditate. Soluta aliquam consequuntur placeat mollitia recusandae quis esse dolores, impedit veritatis porro!
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum quae enim, iusto a laboriosam vitae et rerum cupiditate. Soluta aliquam consequuntur placeat mollitia recusandae quis esse dolores, impedit veritatis porro!
-                </h3>
+                <h3 class="text-xl leading-8 my-5">
+                   Le site assure la sécurité et la confidentialité des données en utilisant les meilleures pratiques de sécurité informatique. Les utilisateurs peuvent être assurés que leurs informations personnelles et les informations sur les annonces sont protégées.
+                   En somme, ce site web est un moyen pratique et efficace pour les utilisateurs de trouver des cours de soutien scolaire pour leurs enfants et pour les enseignants de promouvoir leurs services. C'est une plateforme qui a été développée pour offrir une expérience utilisateur agréable et efficace, avec un accent sur la qualité, la sécurité et la confidentialité.
+                 </h3>
             </div>
         </div>
       </>
